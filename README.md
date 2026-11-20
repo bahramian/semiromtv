@@ -2,15 +2,15 @@
 semiromtv TV Test
 
 
+
 <section class="live-section">
   <h1>SEMIROM TV – LIVE</h1>
 
   <div class="video-container">
     <iframe
-      src="https://www.youtube.com/embed/qGoHPbQyf8c"
+      src="https://www.youtube.com/embed/<iframe width="560" height="315" src="https://www.youtube.com/embed/IPjBZYtvSDI?si=XV-g2wX86I1SOd4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
       title="Semirom TV Live"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
+      allow="autoplay; encrypted-media; picture-in-picture"
       allowfullscreen>
     </iframe>
   </div>
@@ -25,8 +25,6 @@ semiromtv TV Test
 
 .video-container iframe {
   position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
   height: 100%;
   border: 0;
